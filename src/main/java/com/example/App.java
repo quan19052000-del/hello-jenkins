@@ -9,7 +9,7 @@ public class App {
     public static void main(String[] args) {
         App app = new App();
 
-        System.out.println("Hello Jenkins!");
+        System.out.println("Hello Jenkins - Version 2!");
         System.out.println("5 + 3 = " + app.add(5, 3));
     }
 }
